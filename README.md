@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto para tentar simular através de IA a transcrição de texto para fala.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem como objetivo utilizar a IA para fazer a transcrição de texto para fala. O objetivo adicional é fazer com que a fala fique o mais próximo possível da tonalidade da minha voz.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada a ferramenta Speechify que pode ser acessada através do seguinte link: [https://myvoice.speechify.com/).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Nesta ferramenta, é possível fazer o upload de um audio contendo a sua própria voz, ou então gravar alguns segundos de voz para servir como entrada para a ferrameneta, onde ela irá aprender sobre os padrões da voz.
+Após isso, deve-se digitar o texto que deseja que seja reproduzido pela IA e apertar o botão Generate Audio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ao término do processo é possível reproduzir o audio transcrito do texto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Uso da inteligência artificial para reprodozir textos em audios como vozes clonadas é um item interessante e poderoso visto que pode ser utilizado em ferramentas de tradução para manter a voz de quem está falando. Entretanto é uma ferramenta perigosa pois muitos audios podem ser maninpulados e dependendo do contexto comprometer a reputação ou imagem de alguma pessoal. Apesar de ser necessário indicar que somente a própria voz é utilizada no processo, uma legislação a respeito desses possíveis usos indevidos deve ser primorada.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
